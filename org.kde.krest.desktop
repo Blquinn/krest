@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=KRest
+Comment=KRest Kirigami Application
+Version=1.0
+Exec=krest
+Icon=applications-development
+Type=Application
+Terminal=false
+Categories=Qt;KDE;

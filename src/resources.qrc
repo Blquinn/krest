@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">contents/ui/main.qml</file>
+        <file>contents/ui/RequestResponseView.qml</file>
+        <file>contents/ui/RequestEditor.qml</file>
+        <file>contents/ui/ResponseViewer.qml</file>
+        <file>contents/ui/ParamTable.qml</file>
+    </qresource>
+</RCC>
